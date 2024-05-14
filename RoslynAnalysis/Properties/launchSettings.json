@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RoslynAnalysis": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
